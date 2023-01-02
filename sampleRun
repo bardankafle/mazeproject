@@ -1,0 +1,219 @@
+python3 lost_and_found.py
+What map do you want to load? second_map.map
+0  ጰ _ _ * _ _ _ _ _ _ 
+1  _ i _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: 
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  ጰ i _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: 
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ ጰ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ ጰ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ ጰ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ ጰ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ ጰ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ ጰ _ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ ጰ _ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ ጰ _ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): d
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ ጰ _ _ _ 
+5  _ _ _ _ * * d d * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): e
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ ጰ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * ጰ _ * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ ጰ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): 
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ ጰ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ ጰ * * * 
+8  _ _ _ _ * _ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * _ ጰ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): a
+0  _ _ _ * _ _ _ _ _ _ 
+1  _ _ _ * _ _ _ _ _ _ 
+2  _ _ _ * _ _ _ _ _ _ 
+3  _ _ _ * * * * * * d 
+4  _ _ _ _ _ _ _ _ _ _ 
+5  _ _ _ _ * * _ _ * * 
+6  _ _ _ _ * _ _ _ _ _ 
+7  _ _ _ _ * _ _ * * * 
+8  _ _ _ _ * ጰ _ * _ _ 
+9  _ _ _ _ * x _ * _ _ 
+Your inventory is: Blue Key
+Enter Move (wasd) (e to activate doors or secrets, q to quit): s
+You Win!
