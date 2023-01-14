@@ -16,4 +16,5 @@ This project is a Python implementation of a text-based maze game. The game util
 ```
 python3 lost_and_found.py
 ```
-
+## Contact
+If you have any issues or suggestions, please contact me on my github page.
