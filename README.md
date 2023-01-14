@@ -6,6 +6,7 @@ This project is a Python implementation of a text-based maze game. The game util
 - Run the game and pick a map to play
 - Use WASD keys to navigate the maze
 - Doors can be opened using "e" and any door within 1 space (including diagonal) can be opened
+- Doors can also be hidden as walls
 - Pickups are automatically added to inventory
 - The goal is to reach the exit
 
