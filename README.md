@@ -13,5 +13,6 @@ This project is a Python implementation of a text-based maze game. The game util
 1. Clone or download the repository to your local machine
 2. Run the game as such:
 ```
-python3 
+python3 lost_and_found.py
+```
 
